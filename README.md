@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman Sahu
 =================================================================================================================================
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/thecoffeecoder21/thecoffeecoder21/3c4c0bbc2ce0a3a4576e5b77ce07b99601caa5f6/pic-removebg.png">
+<img align="right" alt="Coding" width="300" src="https://github.com/thecoffeecoder21/thecoffeecoder21/blob/main/pic-removebg.png?raw=true">
 
 </br></br>
 
