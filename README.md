@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img align="right" alt="Coding" width="300" src="https://github.com/thecoffeecoder21/thecoffeecoder21/blob/main/pic-removebg.png?raw=true">
 
-</br></br>
+</br></br></br></br>
 
 Data Scientist
 --------------
