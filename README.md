@@ -3,15 +3,12 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman Sahu
 =================================================================================================================================
-
-<img align="right" alt="Coding" width="300" src="https://github.com/thecoffeecoder21/thecoffeecoder21/blob/main/pic-removebg.png?raw=true">
-
-
-
 Data Scientist
 --------------
 
 <h3 align="left">Passionate Machine Learning Engineer. Keen to implement statistical Machine Learning solutions. Always looking forward to Machine Learning Projects. Always keen to learn new technologies.</h3>
+
+<img align="right" alt="Coding" width="300" src="https://github.com/thecoffeecoder21/thecoffeecoder21/blob/main/pic-removebg.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoffeecoder&label=Profile%20views&color=0e75b6&style=flat" alt="thecoffeecoder" /> </p>
 
