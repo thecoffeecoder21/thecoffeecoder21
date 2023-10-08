@@ -8,9 +8,9 @@ Data Scientist
 
 <h3 align="left">Passionate Machine Learning Engineer. Keen to implement statistical Machine Learning solutions. Always looking forward to Machine Learning Projects. Always keen to learn new technologies.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/thecoffeecoder21/thecoffeecoder21/blob/main/pic-removebg.png?raw=true"></br>
+<img align="right" alt="Coding" width="300" src="https://github.com/thecoffeecoder21/thecoffeecoder21/blob/main/pic-removebg.png?raw=true">
 
-- 🔭 I’m currently working on **Graph Neural Networks , Machine Learning ,NLP and Deep learning**
+- 🔭 I’m currently working on **Graph Neural Networks, Machine Learning , NLP and Deep learning**
 
 - 🌱 I’m currently learning **Liquid Neural Network and Advanced NLP**
 
