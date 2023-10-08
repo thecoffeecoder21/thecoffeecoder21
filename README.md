@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman Sahu
 =================================================================================================================================
 
-<img align="right" alt="Coding" width="300" src="(https://media.licdn.com/dms/image/D4D03AQGonObuIWOJAw/profile-displayphoto-shrink_400_400/0/1689092894379?e=1702512000&v=beta&t=xitJdWc9EKgMu9X55fy540D_XJUa2c-nTuapdmyP530)">
+<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D4D03AQGonObuIWOJAw/profile-displayphoto-shrink_400_400/0/1689092894379?e=1702512000&v=beta&t=xitJdWc9EKgMu9X55fy540D_XJUa2c-nTuapdmyP530">
 
 </br></br>
 
