@@ -10,9 +10,6 @@ Data Scientist
 
 <img align="right" alt="Coding" width="300" src="https://github.com/thecoffeecoder21/thecoffeecoder21/blob/main/pic-removebg.png?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoffeecoder&label=Profile%20views&color=0e75b6&style=flat" alt="thecoffeecoder" /> </p>
-
-
 - 🔭 I’m currently working on **Graph Neural Networks , Machine Learning ,NLP and Deep learning**
 
 - 🌱 I’m currently learning **Liquid Neural Network and Advanced NLP**
@@ -25,7 +22,7 @@ Data Scientist
 
 - 📫 How to reach me **amankumar.sahu@somaiya.edu**
 
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoffeecoder&label=Profile%20views&color=0e75b6&style=flat" alt="thecoffeecoder" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoffeecoder" alt="thecoffeecoder" /></a> </p>
 
 </br></br>
