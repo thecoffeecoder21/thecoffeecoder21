@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img align="right" alt="Coding" width="300" src="https://github.com/thecoffeecoder21/thecoffeecoder21/blob/main/pic-removebg.png?raw=true">
 
-</br></br></br></br>
+
 
 Data Scientist
 --------------
@@ -28,6 +28,8 @@ Data Scientist
 - 💬 Ask me about **Machine Learning,Deep Learning, AI , NLP and Data Science**
 
 - 📫 How to reach me **amankumar.sahu@somaiya.edu**
+
+</br></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
