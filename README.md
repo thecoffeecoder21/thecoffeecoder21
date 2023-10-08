@@ -11,10 +11,12 @@ Passionate Machine Learning Engineer. Keen to implement statistical Machine Lear
 * 🧠  I'm learning Liquid Neural Network and Advanced NLP
 * 🤝  I'm open to collaborating on Projects related Liquid Neural Networks, GANs and Graph Neural Network
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </img>
+
 <a href="https://www.github.com/thecoffeecoder21" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thecoffeecoder21?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </img>
+
 
 
 <p align="left">
