@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-<h3 align="center">Passionate Machine Learning Engineer. Keen to implement statistical Machine Learning solutions. Always looking forward to Machine Learning Projects. Always keen to learn new technologies.</h3>
+<h3 align="left">Passionate Machine Learning Engineer. Keen to implement statistical Machine Learning solutions. Always looking forward to Machine Learning Projects. Always keen to learn new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoffeecoder&label=Profile%20views&color=0e75b6&style=flat" alt="thecoffeecoder" /> </p>
 
