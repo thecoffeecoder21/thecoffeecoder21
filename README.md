@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="800" src="https://media.licdn.com/dms/image/D4D16AQGMNuEyAsg33g/profile-displaybackgroundimage-shrink_350_1400/0/1696772901391?e=1702512000&v=beta&t=j19Cf_Oa04zpxBC1cPem-E9xsYMdrcPD1orgOLojfGc"> </img>
+<img align="center" alt="Coding" width="2000" src="https://media.licdn.com/dms/image/D4D16AQGMNuEyAsg33g/profile-displaybackgroundimage-shrink_350_1400/0/1696772901391?e=1702512000&v=beta&t=j19Cf_Oa04zpxBC1cPem-E9xsYMdrcPD1orgOLojfGc"> </img>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman Sahu
 =================================================================================================================================
