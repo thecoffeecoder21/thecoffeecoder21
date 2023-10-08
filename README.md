@@ -21,10 +21,10 @@ Data Scientist
 - 💬 Ask me about **Machine Learning,Deep Learning, AI , NLP and Data Science**
 
 - 📫 How to reach me **amankumar.sahu@somaiya.edu**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoffeecoder&label=Profile%20views&color=0e75b6&style=flat" alt="thecoffeecoder" /> </p>
 
 </br></br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoffeecoder&label=Profile%20views&color=0e75b6&style=flat" alt="thecoffeecoder" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoffeecoder" alt="thecoffeecoder" /></a> </p>
 
 </br></br>
