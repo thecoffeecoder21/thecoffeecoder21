@@ -1,16 +1,15 @@
 
-<img align="center" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </img>
+<img align="center" alt="Coding" width="800" src="https://media.licdn.com/dms/image/D4D16AQGMNuEyAsg33g/profile-displaybackgroundimage-shrink_350_1400/0/1696772901391?e=1702512000&v=beta&t=j19Cf_Oa04zpxBC1cPem-E9xsYMdrcPD1orgOLojfGc"> </img>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman Sahu
 =================================================================================================================================
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 Data Scientist
 --------------
 
-Passionate Machine Learning Engineer. Keen to implement statistical Machine Learning solutions. Always looking forward to Machine Learning Projects. Always keen to learn new technologies.
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Machine Learning Engineer. Keen to implement statistical Machine Learning solutions. Always looking forward to Machine Learning Projects. Always keen to learn new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoffeecoder&label=Profile%20views&color=0e75b6&style=flat" alt="thecoffeecoder" /> </p>
 
