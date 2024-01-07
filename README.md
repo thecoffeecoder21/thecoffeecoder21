@@ -18,7 +18,7 @@ Data Scientist
 
 - 🤝 I’m looking for help with **Liquid Neural Network**
 
-- 💬 Ask me about **Machine Learning,Deep Learning, AI , NLP and Data Science**
+- 💬 Ask me about **Machine Learning, Deep Learning, AI, NLP and Data Science**
 
 - 📫 How to reach me **amankumar.sahu@somaiya.edu**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoffeecoder&label=Profile%20views&color=0e75b6&style=flat" alt="thecoffeecoder" /> </p>
