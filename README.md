@@ -2,13 +2,13 @@
 
 <table>
   <tr>
+    <!-- Left Hand Side: High-Density Portrait ASCII Art -->
     <td valign="top" width="50%">
-<sub>
 <pre>
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////((%%&&&&&&&@@&&&&##&(/(/////////////////////////////
 //////////////////////(#&&&&&&&&&&&&&&&&&@&@@@&&@&&&&%#%&%/********************/
-////////////*///*//#&&&&&&&&&&&@&@&&&&@&&&&&@&&&&&&&&&&&&%(/********************
+------------*///*//#&&&&&&&&&&&@&@&&&&@&&&&&@&&&&&&&&&&&&%(/********************
 /////***********/(&&&&&@&&&@@@&&&&@@@&&@@&&@@@&@@@&&&@@@&&&&&%/*****************
 */*************/%&&@@@@@@&@@@&@&@@@@&&&&@@@@&&&&@@&&@@@@@&&&&&&(//**************
 **************/#@@@@@@@&@@@@@@@@@&@@@@@@@@@@&&@@@@@@@@@@@@@@@@&&%***************
@@ -46,64 +46,55 @@
 ,,,,,,,,,,,,(&&&&&&&&@&(...(/&&&&&@@@@@&#*,....,..&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 ,,,,,,,,#&&&&&&&&&&&@&#..,/,.&&&&@@@@%(*.........&&&&&&&&&&&&&&&&&@&&&&&&&&&&&&&
 </pre>
-Sub>
     </td>
+    <!-- Right Hand Side: Fixed Paragraph Layout Status Panel -->
     <td valign="top" width="50%">
-<sub style="font-family: monospace; font-size: 11px; line-height: 1.5;">
+<br/>
 
-<div>
-  <strong>🟢 CORE_INITIALIZATION</strong><br/>
+<h4>🟢 CORE_INITIALIZATION</h4>
+<p>
   • <b>User:</b> Aman Sahu<br/>
   • <b>Role:</b> Machine Learning Engineer / Data Scientist<br/>
   • <b>Location:</b> Mumbai, India<br/>
-  • <b>Affiliation:</b> IIT Madras Online Degree<br/>
-</div>
+  • <b>Affiliation:</b> IIT Madras Online Degree
+</p>
 
-<br/>
-<hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
-<br/>
+<hr size="1" color="#30363d" />
 
-<div>
-  <strong>⚡ RUNTIME_ENVIRONMENT</strong><br/>
+<h4>⚡ RUNTIME_ENVIRONMENT</h4>
+<p>
   • <b>Primary OS:</b> Linux Ubuntu<br/>
   • <b>Secondary OS:</b> Windows 11<br/>
   • <b>Development IDE:</b> VSCode<br/>
-  • <b>Compute Hardware:</b> Nvidia RTX 3050 (4GB VRAM)<br/>
-</div>
+  • <b>Compute Hardware:</b> Nvidia RTX 3050 (4GB VRAM)
+</p>
 
-<br/>
-<hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
-<br/>
+<hr size="1" color="#30363d" />
 
-<div>
-  <strong>📦 EXPERTISE_MODULES</strong><br/>
+<h4>📦 EXPERTISE_MODULES</h4>
+<p>
   • <b>Domains:</b> Graph Neural Networks, Deep Learning, Advanced NLP, Machine Learning<br/>
-  • <b>Operations:</b> Coordinating technical operations, Delivering distributed AI systems<br/>
-</div>
+  • <b>Operations:</b> Coordinating technical operations, Delivering distributed AI systems
+</p>
 
-<br/>
-<hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
-<br/>
+<hr size="1" color="#30363d" />
 
-<div>
-  <strong>🚀 ACTIVE_RESEARCH</strong><br/>
+<h4>🚀 ACTIVE_RESEARCH</h4>
+<p>
   • <b>Architectures:</b> Liquid Neural Networks, Advanced deep sequence models<br/>
-  • <b>Agentics:</b> Custom tool-calling agents, Deployment for quantized local setups<br/>
-</div>
+  • <b>Agentics:</b> Custom tool-calling agents, Deployment for quantized local setups
+</p>
 
-<br/>
-<hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
-<br/>
+<hr size="1" color="#30363d" />
 
-<div>
-  <strong>🌐 NETWORK_ENDPOINTS</strong><br/>
+<h4>🌐 NETWORK_ENDPOINTS</h4>
+<p>
   • <b>Mail:</b> amankumar.sahu@somaiya.edu<br/>
   • <b>LeetCode:</b> thecoffeecoder21<br/>
   • <b>Kaggle:</b> amansahu13<br/>
-  • <b>Branding:</b> Stochastic Soul<br/>
-</div>
+  • <b>Branding:</b> Stochastic Soul
+</p>
 
-</sub>
     </td>
   </tr>
 </table>
