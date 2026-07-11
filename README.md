@@ -3,7 +3,7 @@
 <table>
   <tr>
     <!-- Left Hand Side: High-Density Portrait ASCII Art -->
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
 <sub>
 <pre>
 //////////////////////////////////////////////////////////////////////
@@ -44,44 +44,52 @@
 </pre>
 </sub>
     </td>
-    <!-- Right Hand Side: Modern IDE / Status Panel -->
-    <td valign="top" width="40%">
-<sub style="font-size: 11px; font-family: monospace; line-height: 1.3;">
+    <!-- Right Hand Side: Fixed HTML Status Panel -->
+    <td valign="top" width="45%">
+<sub style="font-family: monospace; line-height: 1.5; display: block;">
 <br/>
 
-### 🟢 CORE_INITIALIZATION
-* **User:** Aman Sahu
-* **Role:** Machine Learning Engineer / Data Scientist
-* **Location:** Mumbai, India
-* **Affiliation:** IIT Madras Online Degree
+<strong>🟢 CORE_INITIALIZATION</strong><br/>
+• <b>User:</b> Aman Sahu<br/>
+• <b>Role:</b> Machine Learning Engineer / Data Scientist<br/>
+• <b>Location:</b> Mumbai, India<br/>
+• <b>Affiliation:</b> IIT Madras Online Degree<br/>
 
----
+<br/>
+<hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
+<br/>
 
-### ⚡ RUNTIME_ENVIRONMENT
-* **Primary_OS:** Linux Ubuntu
-* **Secondary_OS:** Windows 11
-* **Development_IDE:** VSCode
-* **Compute_Hardware:** Nvidia RTX 3050 (4GB VRAM)
+<strong>⚡ RUNTIME_ENVIRONMENT</strong><br/>
+• <b>Primary OS:</b> Linux Ubuntu<br/>
+• <b>Secondary OS:</b> Windows 11<br/>
+• <b>Development IDE:</b> VSCode<br/>
+• <b>Compute Hardware:</b> Nvidia RTX 3050 (4GB VRAM)<br/>
 
----
+<br/>
+<hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
+<br/>
 
-### 📦 EXPERTISE_MODULES
-* **Domains:** Graph Neural Networks, Deep Learning, Advanced NLP, Machine Learning
-* **Operations:** Coordinating technical operations, Delivering distributed AI systems
+<strong>📦 EXPERTISE_MODULES</strong><br/>
+• <b>Domains:</b> Graph Neural Networks, Deep Learning, Advanced NLP, Machine Learning<br/>
+• <b>Operations:</b> Coordinating technical operations, Delivering distributed AI systems<br/>
 
----
+<br/>
+<hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
+<br/>
 
-### 🚀 ACTIVE_RESEARCH
-* **Architectures:** Liquid Neural Networks, Advanced deep sequence models
-* **Agentics:** Custom tool-calling agents, Deployment for quantized local setups
+<strong>🚀 ACTIVE_RESEARCH</strong><br/>
+• <b>Architectures:</b> Liquid Neural Networks, Advanced deep sequence models<br/>
+• <b>Agentics:</b> Custom tool-calling agents, Deployment for quantized local setups<br/>
 
----
+<br/>
+<hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
+<br/>
 
-### 🌐 NETWORK_ENDPOINTS
-* **Mail:** amankumar.sahu@somaiya.edu[cite: 1]
-* **LeetCode:** thecoffeecoder21[cite: 1]
-* **Kaggle:** amansahu13[cite: 1]
-* **Branding:** Stochastic Soul
+<strong>🌐 NETWORK_ENDPOINTS</strong><br/>
+• <b>Mail:</b> amankumar.sahu@somaiya.edu<br/>
+• <b>LeetCode:</b> thecoffeecoder21<br/>
+• <b>Kaggle:</b> amansahu13<br/>
+• <b>Branding:</b> Stochastic Soul<br/>
 
 </sub>
     </td>
@@ -108,13 +116,13 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/aman-kumar-sahu-840859178/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>[cite: 1]
-  <a href="https://kaggle.com/https://www.kaggle.com/amansahu13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>[cite: 1]
-  <a href="https://www.leetcode.com/https://leetcode.com/thecoffeecoder21/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" /></a>[cite: 1]
+  <a href="https://linkedin.com/in/aman-kumar-sahu-840859178/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
+  <a href="https://www.kaggle.com/amansahu13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
+  <a href="https://leetcode.com/thecoffeecoder21/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" /></a>
 </p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/thecoffeecoder">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Buy Me A Coffee" />
-  </a>[cite: 1]
+  </a>
 </p>
