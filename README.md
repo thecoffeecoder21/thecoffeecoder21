@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <!-- Left Hand Side: High-Density Portrait ASCII Art -->
+    <!-- Left Hand Side: High-Density Portrait ASCII Art & Tech Stack -->
     <td valign="top" width="50%">
 <pre>
 ////////////////////////////////////////////////////////////////////////////////
@@ -36,7 +36,7 @@
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,//(#%&@@@&&@&&&%&@@@@@&&&%%#**,,,*&/,,,...,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,////((#%&@@@@@@@@@&&&&&%%/***,,,,,@@&%,,,.,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,.,////((((##%%%%%&&&&&&/******,*,*@@@@&&&(.,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,.,.,(/////(((###%%%%%%*****,,,,,,*/@@@@@@@@&&&%,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,, .,.,(/////(((###%%%%%%*****,,,,,,*/@@@@@@@@&&&%,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,..... .(/////((((((#/.,,,,,,,,,,,,*%@@@@@@@@&&&&&&&&&&(,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,..  ,(////(((/..........,,,,,*@@@@@@@@@&&&&&@&&&&&&&&&
 ,,,,,,,,,,,,,,,,,,,,.,.,%&.     ./(((    ............,,&&@@@@&&&&&&&&&@&&&&&&&&&
@@ -46,15 +46,30 @@
 ,,,,,,,,,,,,(&&&&&&&&@&(...(/&&&&&@@@@@&#*,....,..&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 ,,,,,,,,#&&&&&&&&&&&@&#..,/,.&&&&@@@@%(*.........&&&&&&&&&&&&&&&&&@&&&&&&&&&&&&&
 </pre>
+
+<br/>
+<strong>🛠️ Languages and Tools</strong>
+<p align="left" style="margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="38" height="38"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="38" height="38"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="38" height="38"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="38" height="38"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="38" height="38"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38" height="38"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="38" height="38"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="38" height="38"/>
+</p>
     </td>
-    <!-- Right Hand Side: Fixed Paragraph Layout Status Panel -->
+    <!-- Right Hand Side: Status Panel Layout -->
     <td valign="top" width="50%">
 <br/>
 
 <h4>🟢 CORE_INITIALIZATION</h4>
 <p>
-  • <b>User:</b> Aman Sahu<br/>
-  • <b>Role:</b> Machine Learning Engineer / Data Scientist<br/>
+  • <b>User:</b> Aman Gauri Sahu<br/>
+  • <b>Role:</b> AI Engineer / Data Scientist / ML Engineer<br/>
   • <b>Location:</b> Mumbai, India<br/>
   • <b>Affiliation:</b> IIT Madras Online Degree
 </p>
@@ -73,13 +88,13 @@
 
 <h4>📦 EXPERTISE_MODULES</h4>
 <p>
-  • <b>Domains:</b> Graph Neural Networks, Deep Learning, Advanced NLP, Machine Learning<br/>
+  • <b>Domains:</b> Graph Neural Networks, Deep Learning, Advanced NLP, Machine Learning, RAG , Multi Agentic Systems<br/>
   • <b>Operations:</b> Coordinating technical operations, Delivering distributed AI systems
 </p>
 
 <hr size="1" color="#30363d" />
 
-<h4>🚀 ACTIVE_RESEARCH</h4>
+<h4>🚀 ACTIVE_WORK</h4>
 <p>
   • <b>Architectures:</b> Liquid Neural Networks, Advanced deep sequence models<br/>
   • <b>Agentics:</b> Custom tool-calling agents, Deployment for quantized local setups
@@ -89,38 +104,19 @@
 
 <h4>🌐 NETWORK_ENDPOINTS</h4>
 <p>
-  • <b>Mail:</b> amankumar.sahu@somaiya.edu<br/>
+  • <b>Mail:</b> sahuaman454@gmail.com<br/>
   • <b>LeetCode:</b> thecoffeecoder21<br/>
-  • <b>Kaggle:</b> amansahu13<br/>
-  • <b>Branding:</b> Stochastic Soul
+  • <b>Kaggle:</b> iamavyukt
 </p>
 
-    </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/>
-</p>
-
----
-
 <p align="center">
-  <a href="https://linkedin.com/in/aman-kumar-sahu-840859178/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
-  <a href="https://www.kaggle.com/amansahu13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
+  <a href="https://linkedin.com/in/aman-kumar-sahu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
+  <a href="https://www.kaggle.com/iamavyukt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
   <a href="https://leetcode.com/thecoffeecoder21/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" /></a>
 </p>
 
