@@ -36,30 +36,30 @@
 
 <strong>🛠️ Languages and Tools</strong>
 <br/>
-<p align="left" style="margin-top: 10px; line-height: 2.2;">
-  <!-- Row 1: First 5 Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/><br/>
+<p align="left" style="margin-top: 12px; margin-bottom: 12px;">
+  <!-- Row 1: First 5 Tools with premium spacing margins -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" style="margin-right: 14px; margin-bottom: 12px;"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35" style="margin-right: 14px; margin-bottom: 12px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35" style="margin-right: 14px; margin-bottom: 12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35" style="margin-right: 14px; margin-bottom: 12px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35" style="margin-bottom: 12px;"/><br/>
   <!-- Row 2: Remaining 5 Tools -->
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35" style="margin-right: 14px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35" style="margin-right: 14px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35" style="margin-right: 14px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35" style="margin-right: 14px;"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/>
 </p>
 
 <br/>
 
 <strong>🌐 Connect & Support</strong>
-<table border="0" style="border: none; margin-top: 10px;">
+<table border="0" style="border: none; margin-top: 12px;">
   <tr style="border: none;">
-    <!-- Left Aligned Social Badges -->
-    <td valign="middle" style="border: none; padding-right: 20px;">
-      <a href="https://linkedin.com/in/aman-kumar-sahu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" /></a>&nbsp;
-      <a href="https://www.kaggle.com/iamavyukt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" width="38" /></a>&nbsp;
+    <!-- Left Aligned Social Badges with clean internal margins -->
+    <td valign="middle" style="border: none; padding-right: 35px;">
+      <a href="https://linkedin.com/in/aman-kumar-sahu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" style="margin-right: 12px;" /></a>
+      <a href="https://www.kaggle.com/iamavyukt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" width="38" style="margin-right: 12px;" /></a>
       <a href="https://leetcode.com/thecoffeecoder21/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="28" width="38" /></a>
     </td>
     <!-- Right Aligned Buy Me a Coffee Button -->
@@ -104,7 +104,8 @@
       <h4>🌐 NETWORK_ENDPOINTS</h4>
       <p>
         • <b>Mail:</b> sahuaman454@gmail.com<br/>
-        • <b>LeetCode:</b> thecoffeecoder21 &nbsp;|&nbsp; <b>Kaggle:</b> iamavyukt
+        • <b>LeetCode:</b> thecoffeecoder21<br/>
+        • <b>Kaggle:</b> iamavyukt
       </p>
     </td>
   </tr>
