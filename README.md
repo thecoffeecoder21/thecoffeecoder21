@@ -1,8 +1,8 @@
-# Hi My name is Aman Gauri Sahu
+# Hi, My name is Aman Gauri Sahu
 
 <table>
   <tr>
-    <!-- Left Column: Safe Landscape ASCII Art Block -->
+    <!-- Left Column: ASCII Art, Tech Stack, and Supporting Buttons -->
     <td valign="top" width="45%">
 <pre>
 //////////////////////////////////////////////////
@@ -31,6 +31,33 @@
 ,,,,,,,,,,,&&&&%.*&&&&&@@@&.....%&&&&&&@@&&&&&&&&&
 ,,,,,,,&&&&&&@%.,/%&&@@@%/.....&&&&&&&&&&&@&&&&&&&
 </pre>
+
+<br/>
+<strong>🛠️ Languages and Tools</strong>
+<p align="left" style="margin-top: 5px; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/>
+</p>
+
+<p align="left" style="margin-bottom: 15px;">
+  <a href="https://linkedin.com/in/aman-kumar-sahu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" /></a>&nbsp;
+  <a href="https://www.kaggle.com/iamavyukt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" width="38" /></a>&nbsp;
+  <a href="https://leetcode.com/thecoffeecoder21/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="28" width="38" /></a>
+</p>
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/thecoffeecoder">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="38" width="150" alt="Buy Me A Coffee" />
+  </a>
+</p>
     </td>
     <!-- Right Column: Premium Terminal Status Deck -->
     <td valign="top" width="55%">
@@ -53,7 +80,7 @@
       <h4>📦 EXPERTISE_MODULES</h4>
       <p>
         • <b>Domains:</b> Graph Neural Networks, Deep Learning, Advanced NLP, Machine Learning, RAG, Multi Agentic Systems<br/>
-        • <b>Operations:</b> Coordinating technical operations, Delivering distributed AI systems
+        • <b>Operations:</b> Coordinating technical operations
       </p>
       <hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
       <h4>🚀 ACTIVE_WORK</h4>
@@ -70,36 +97,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left" style="margin-top: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="38" height="38"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="38" height="38"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="38" height="38"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="38" height="38"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="38" height="38"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38" height="38"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="38" height="38"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="38" height="38"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/aman-kumar-sahu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
-  <a href="https://www.kaggle.com/iamavyukt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
-  <a href="https://leetcode.com/thecoffeecoder21/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/thecoffeecoder">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-```
