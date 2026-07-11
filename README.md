@@ -49,6 +49,7 @@
 
 <br/>
 <strong>🛠️ Languages and Tools</strong>
+<br/>
 <p align="left" style="margin-top: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38"/>&nbsp;
@@ -113,7 +114,6 @@
 </table>
 
 ---
-<br/>
 <p align="center">
   <a href="https://linkedin.com/in/aman-kumar-sahu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
   <a href="https://www.kaggle.com/iamavyukt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
