@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <!-- Left Column: ASCII Art, Tech Stack, and Supporting Buttons -->
+    <!-- Left Column: ASCII Art, Tightly Organized Stack, and Social Layout -->
     <td valign="top" width="45%">
 <pre>
 //////////////////////////////////////////////////
@@ -33,13 +33,17 @@
 </pre>
 
 <br/>
+
 <strong>🛠️ Languages and Tools</strong>
-<p align="left" style="margin-top: 5px; margin-bottom: 20px;">
+<br/>
+<p align="left" style="margin-top: 10px; line-height: 2.2;">
+  <!-- Row 1: First 5 Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/><br/>
+  <!-- Row 2: Remaining 5 Tools -->
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/>&nbsp;
@@ -47,17 +51,25 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/>
 </p>
 
-<p align="left" style="margin-bottom: 15px;">
-  <a href="https://linkedin.com/in/aman-kumar-sahu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" /></a>&nbsp;
-  <a href="https://www.kaggle.com/iamavyukt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" width="38" /></a>&nbsp;
-  <a href="https://leetcode.com/thecoffeecoder21/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="28" width="38" /></a>
-</p>
+<br/>
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/thecoffeecoder">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="38" width="150" alt="Buy Me A Coffee" />
-  </a>
-</p>
+<strong>🌐 Connect & Support</strong>
+<table border="0" style="border: none; margin-top: 10px;">
+  <tr style="border: none;">
+    <!-- Left Aligned Social Badges -->
+    <td valign="middle" style="border: none; padding-right: 20px;">
+      <a href="https://linkedin.com/in/aman-kumar-sahu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" /></a>&nbsp;
+      <a href="https://www.kaggle.com/iamavyukt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" width="38" /></a>&nbsp;
+      <a href="https://leetcode.com/thecoffeecoder21/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="28" width="38" /></a>
+    </td>
+    <!-- Right Aligned Buy Me a Coffee Button -->
+    <td valign="middle" style="border: none;">
+      <a href="https://www.buymeacoffee.com/thecoffeecoder">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="36" width="140" alt="Buy Me A Coffee" />
+      </a>
+    </td>
+  </tr>
+</table>
     </td>
     <!-- Right Column: Premium Terminal Status Deck -->
     <td valign="top" width="55%">
@@ -80,7 +92,7 @@
       <h4>📦 EXPERTISE_MODULES</h4>
       <p>
         • <b>Domains:</b> Graph Neural Networks, Deep Learning, Advanced NLP, Machine Learning, RAG, Multi Agentic Systems<br/>
-        • <b>Operations:</b> Coordinating technical operations
+        • <b>Operations:</b> Coordinating technical operations, Delivering distributed AI systems
       </p>
       <hr size="1" color="#30363d" style="border-style: solid none none none; border-color: #30363d;" />
       <h4>🚀 ACTIVE_WORK</h4>
