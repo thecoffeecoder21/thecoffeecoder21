@@ -113,7 +113,7 @@
 </table>
 
 ---
-
+<br/>
 <p align="center">
   <a href="https://linkedin.com/in/aman-kumar-sahu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
   <a href="https://www.kaggle.com/iamavyukt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
